@@ -1,2 +1,6 @@
-Pizza [Tasty]
-PAsta [Saucy]
+
+Pasta [Tasty]
+Italian
+
+Pizza [Saucy]
+Eyetalian
